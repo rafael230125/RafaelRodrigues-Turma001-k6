@@ -1,1 +1,3 @@
-# RafaelRodrigues-Turma001-k6
+# k6-performance-testing
+
+Performance test with Grafana K6
